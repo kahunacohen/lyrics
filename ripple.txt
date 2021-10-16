@@ -1,5 +1,6 @@
 {title: Ripple}
 {artist: Greatful Dead}
+{genre: folk rock}
 
 If my words did [G]glow with the gold of [C]sunshine
 And my tunes were played on the harp un[G]strung
