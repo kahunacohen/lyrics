@@ -1,5 +1,6 @@
 {title: Pumped Up Kicks}
 {artist: Foster the People}
+{genre: alternative}
 {capo: 1}
 
 [Em]Robert's got a quick [G]hand
