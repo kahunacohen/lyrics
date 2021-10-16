@@ -1,5 +1,6 @@
 {title: Come Together}
 {artist: Beatles}
+{genre: rock}
 {Capo: 1}
 
 
