@@ -6,15 +6,13 @@
 {start_of_chorus}
 [D]My place is of the sun and [Bm7]this place is of the dark
 And [Cadd9]I, I do not feel the romance, [G]I do not catch the spark :| repeat 1x
-{end_of_chorus}
 
 [D]I don't know when I noticed [C]life was life at my expense
 [Bm]The words of my heart lined up like [Gm]prisoners on a fence
 
 [D]My dreams came in like needy children [C]tugging at my sleeve
 [G/B]I said I have no way of [Asus]feeding you, so [A7]leave
- 
-{start_of_chorus2}
+
 [Cadd9]But there was a time I asked my [G]father for a dollar
 [D]And he gave it a [D/C#]ten dollar [Bm7add11]raise
 [Cadd9]And when I needed my [G]mother and I called her
@@ -29,7 +27,8 @@ I asked for providence to [Cadd9]smile upon me with its sweet [G]face;
 Yeah, but I'll tell you:
 {end_of_chorus}
  
-{chorus1}
+[D]My place is of the sun and [Bm7]this place is of the dark
+And [Cadd9]I, I do not feel the romance, [G]I do not catch the spark :| repeat 1x
  
 Maybe there's no haven in this world for tender age
 My heart beat like the wings of wild birds in a cage
@@ -53,20 +52,7 @@ But I tried to make this place my place;    I asked for providence to
 Cadd9       Cadd9             G N.C.
 smile upon me with its sweet face;      Yeah, but I'll tell you:
  
-D              D            Bm7add11        Bm7add11
-My place is of the sun and this place is of the dark
-     Cadd9        Cadd9          G          G
-And I, I do not feel the romance, I do not catch the spark
- 
-My place is of the sun and this place is of the dark
- 
-And I, I do not feel the romance, I do not catch the spark
- 
-My place is of the sun and this place is of the dark
-     Cadd9        Cadd9             G N.C.
-And I, I do not feel the romance; I will not be a pawn
-        Gm
-For the prince of darkness any longer
- 
-[Instrumental]
-D   D/G D/F# D/E     D   D/G D/F# D/E     D   D/G D/F# D/E
+[D]My place is of the sun and [Bm7]this place is of the dark
+And [Cadd9]I, I do not feel the romance, [G]I do not catch the spark :| repeat 1x
+
+I will not be a pawn For the prince of [Gm]darkness any longer
