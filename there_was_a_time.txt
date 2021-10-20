@@ -1,0 +1,27 @@
+{title: There Was a Time}
+{artist: Orange Mandolin}
+{genre: folk}
+{Capo: 3}
+
+If I showed [Am]up [F]to your [C]wedding
+Wearing [Dm]black and [Am]blue and [C]red
+Wouldn't [Am]it [F]seem [C]fitting
+Cause I'm as [Dm]bruised and [Am]angry as I've [C]ever been.
+
+{start_of_chorus}
+[G]There was a [Am]time when I [F]called you
+[G]There was a [Am]time when I [F]called you [C]mine.
+{end_of_chorus}
+
+This old house is cold and empty
+Even these old walls have been.I laid down.You're not with me.
+Waking up just seems a sin.
+
+{chorus}
+
+[Am]There's no gold on either [Dm]side of the Mississipp[Am],
+No [Dm]silver left [Am]in this world to [C]find.
+Precious [Am]metal and [F]precious [C]memories
+Slip [Dm]away, slip [Am]away from your [F]finger and your [C]mind.
+
+{chorus}
