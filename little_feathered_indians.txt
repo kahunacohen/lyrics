@@ -5,32 +5,33 @@ Tyler Childers
 {genre: folk rock}
 {Capo: 1}
 
-Well my buckle makes impressions
-On the inside of her thigh
-There are little feathered Indians
+[D]Well my buckle makes impressions
+On the [A7sus]inside of her thigh
+There are [G]little feathered Indians
 Where we tussled through the night
-If I'd known she was religious
-Then I wouldn't have came stoned
-To the house of such an angel
+If I'd [D]known she was religious
+Then I [A7sus]wouldn't have came stoned
+To the [G]house of such an angel
 Too fucked up to get back home
 
-Lookin' over West Virginia
-Smoking Spirits on the roof
-She asked ain't anybody told ya
+[D]Lookin' over West Virginia
+Smoking [A7sus]Spirits on the roof
+She asked ain't [G]anybody told ya
 That them things are bad for you
-I said many folks have warned me
-There's been several people try
-But up till now, there ain't been nothing
+I said [D]many folks have warned me
+There's been [A7sus]several people try
+But up till [G]now, there ain't been nothing
 That I couldn't leave behind
 
-Hold me close my dear
-Sing your whispering song
-Softly in my ear
-And I will sing along
-Honey tell me how your love runs true
-And how I can always count on you
+{start_of_chorus}
+[A7]Hold me close my [G]dear
+[A7]Sing your whispering [G]song
+[A7]Softly in my [G]ear
+And [A7]I will sing [G]along
+Honey tell me how your [Bm]love [A]runs [G]true
+And how I can [Bm]always count [A]on [G]you. [A7sus]
 To be there when the bullets fly
-I'd run across the river just to hold you tonight
+I'd [G]run across the river just to hold you [D]tonight
 
 Well my heart is sweating bullets
 From the circles it has raced
@@ -41,11 +42,4 @@ I'd go careless through the thorns
 Just to hold her for a minute
 Though it'd leave me wanting more
 
-Hold me close my dear
-Sing your whispering song
-Softly in my ear
-And I will sing along
-Honey tell me how your love runs true
-And how I can always count on you
-To be there when the bullets fly
-I'd run across the river just to hold you tonight
+{chorus}
