@@ -1,0 +1,31 @@
+{title: Four Strong Winds}
+{artist: Neil Young}
+{genre: folk rock}
+{Capo: 1}
+
+{start_of_chorus}
+Four strong [G]winds that blow [Cm]lonely
+[D7]Seven seas that run [G]high
+All those things that don't [Cm]change come what [D7]may
+But our [G]good times are all [Cm]gone
+And I'm [D7]bound for moving [G]on
+I'll look for you if I'm ever back this way
+{end_of_chorus}
+
+Think I'll go out to Alberta
+Weather's good there in the fall
+I got some friends that I can go to working for
+Still I wish you'd change your mind
+If I asked you one more time
+But we've been through that a hundred times or more
+
+{chorus}
+
+If I get there before the snow flies
+And if things are goin' good
+You could meet me if I sent you down the fare
+But by then it would be winter
+There ain't too much for you to do
+And those winds sure can blow cold way out there
+
+{chorus}
