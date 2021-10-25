@@ -1,7 +1,7 @@
 {title: Four Strong Winds}
 {artist: Neil Young}
 {genre: folk rock}
-{Capo: 1}
+{Capo: 3}
 
 {start_of_chorus}
 Four strong [G]winds that blow [Cm]lonely
@@ -9,7 +9,7 @@ Four strong [G]winds that blow [Cm]lonely
 All those things that don't [Cm]change come what [D7]may
 But our [G]good times are all [Cm]gone
 And I'm [D7]bound for moving [G]on
-I'll look for you if I'm ever back this way
+[Cm]I'll look for you if I'm [C]ever back this [D7]way
 {end_of_chorus}
 
 Think I'll go out to Alberta
