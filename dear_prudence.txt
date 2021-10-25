@@ -2,6 +2,7 @@
 {artist: Beatles}
 {genre: rock}
 {Capo: 1}
+See https://www.youtube.com/watch?v=Maz1DbHXTt0
 
 Dear Prudence, won't you come out to play
 Dear Prudence, greet the brand new day
