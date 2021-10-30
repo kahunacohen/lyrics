@@ -1,15 +1,22 @@
-I left my old home to ramble this country
-My mother and dad said, "Son don't go wrong
-Remember that God will always watch over you
-And we will be waiting for you here at home"
-"Son, don't go astray", was what they both told me
-"Remember that love for God can be found"
-But now they're both gone, this letter just told me
-For years they've been dead, the fields have turned brown
+{title: The Fields Have Turned Brown}
+{artist: Stanley Brothers}
+{genre: folk}
+
+I left my old [C]home to ramble this country
+My mother and [F]dad said, "Son don't go [C]wrong
+Remember that [F]God will always watch over [C]you
+And we will be [G]waiting for you here at [C]home"
+
+{start_of_chorus}
+"Son, don't go [F]astray", was what they both [C]told me
+"Remember that [G]love for God can be [C]found"
+But now they're both [F]gone, this letter just [C]told me
+For years they've been [G]dead, the fields have turned [C]brown
+{end_of_chorus}
+
+For many long years I've rambled this country
 No thoughts of the day when I would return
-Now as I go home and find no one waiting
+Now as I go home to find no one waiting
 The price I have paid to live and to learn
-"Son, don't go astray", was what they both told me
-"Remember that love for God can be found"
-But now they're both gone, this letter just told me
-For years they've been dead, the fields have turned brown
+
+{chorus}
