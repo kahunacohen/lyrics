@@ -1,10 +1,10 @@
 {title: Heart of Gold}
 {artist: Neil Young}
 {genre: folk rock}
-{Capo: 6}
+{Capo: 5}
 
-I want to live
-I want to give
+[Em]I want to [C]live
+[D]I want to [G]give
 I've been a miner for a heart of gold
 It's these expressions
 I never give
