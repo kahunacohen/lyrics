@@ -1,25 +1,31 @@
 {title: Hide Your Love Away}
 {artist: Beatles}
 {genre: folk rock}
-{Capo: 1}
+{Capo: 8}
 
-Here I stand head in hand
-Turn my face to the wall
-If she's gone I can't go on
-Feelin' two-foot small
-Everywhere people stare
-Each and every day
-I can see them laugh at me
-And I hear them say
+[G]Here I [D]stand [F]head in [G]hand
+[C]Turn my face to the [F]wal[C]l
+[G]If she's [D]gone I [F]can't go [G]on
+[C]Feelin' two-foot [F]smal[C]l
+
+[G]Every[D]where [F]people [G]stare
+[C]Each and every [F]da[C]y
+[G]I can [D]see them [F]laugh at [G]me
+[C]And I hear them [F]saa[C]a[D]y
+
+{start_of_chorus}
 Hey, you've got to hide your love away
 Hey, you've got to hide your love away
+{end_of_chorus}
+
 How can I even try
 I can never win
 Hearing them, seeing them
 In the state I'm in
+
 How could she say to me
 Love will find a way
 Gather 'round all you clowns
 Let me hear you say
-Hey, you've got to hide your love away
-Hey, you've got to hide your love away
+
+{chorus}
