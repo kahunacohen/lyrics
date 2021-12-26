@@ -3,24 +3,26 @@
 {genre: folk rock}
 {Capo: 1}
 
-Comes a time when you're driftin'
-Comes a time when you settle down
-Comes a light, feelings liftin'
-Lift that baby right up off the ground
+[G]Comes a time [Bm]when you're driftin'
+[D]Comes a time when you s[Am7]ettle down
+[G]Comes a light, [Bm]feelings liftin'
+[D]Lift that baby right up [Am7]off the ground
+
+{start_of_chorus}
 Oh, this old world keeps spinnin' 'round
 It's a wonder, tall trees ain't layin' down
 There comes a time
+{end_of_chorus}
+
 You and I, we were captured
 We took our souls and we flew away
 We were right, we were giving
 That's how we kept what we gave away
-Oh, this old world keeps spinnin' 'round
-It's a wonder, tall trees ain't layin' down
-There comes a time
-Oh, this old world keeps spinnin' 'round
-It's a wonder, tall trees ain't layin' down
-There comes a time
-There comes a time
+
+{chorus x2}
+
+[G]There comes a [Dm7]time
+There comes a [G]time
 Comes a time
 Comes a time
 Comes a time
