@@ -2,7 +2,8 @@
 {artist: Neil Young}
 {genre: folk rock}
 {Capo: 1}
-{meta: tuning double drop D}
+{meta: tuning double drop C}
+{meta: double drop D, guitar tuned down a whole step}
 
 Old man lying by the side of the road
 With the lorries rolling by
