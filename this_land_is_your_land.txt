@@ -1,3 +1,7 @@
+{title: This Land is Your Land}
+{artist: Woody Guthrie}
+{genre: folk}
+
 This land is your land and this land is my land
 From California to the New York island
 From the redwood forest to the Gulf Stream waters
