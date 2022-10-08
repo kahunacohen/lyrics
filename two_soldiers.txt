@@ -1,7 +1,7 @@
 {title: Two Soldiers}
 {author: Traditional}
 {genre: folk}
-{Capo: 1}
+{Capo: 8}
 
 [D]He was just a blue eyed [C]Boston boy his voice was low with [G]pain
 I’ll [D]do your bidding, [C]comrade mine if you will do the [G]same
