@@ -1,10 +1,15 @@
+{title: Sweet Jane}
+{artist: Lou Reed}
+{genre: rock}
 
 Anyone who's ever had a heart
 Wouldn't turn around and break it
 And anyone who's ever played a part
 Wouldn't turn around and hate it
+
 Sweet Jane, Sweet Jane
 Oh Sweet, Sweet Jane
+
 You're waiting for Jimmy down in the alley
 Waiting there for him to come back home
 Waiting down on the corner
