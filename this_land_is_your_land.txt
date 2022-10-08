@@ -1,6 +1,7 @@
 {title: This Land is Your Land}
 {artist: Woody Guthrie}
 {genre: folk}
+{capo: 3}
 
 [C]This land is [F]your land and this land is [C]my land
 From Cali[G]fornia to the New York [C]island
