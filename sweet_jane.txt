@@ -7,21 +7,25 @@ Wouldn't turn around and break it
 And anyone who's ever played a part
 Wouldn't turn around and hate it
 
+{start_of_chorus}
 Sweet Jane, Sweet Jane
 Oh Sweet, Sweet Jane
+{end_of_chorus}
 
 You're waiting for Jimmy down in the alley
 Waiting there for him to come back home
 Waiting down on the corner
 And thinking of ways to get back home
-Sweet Jane, Sweet Jane
-Oh Sweet, Sweet Jane
+
+{chorus}
+
 Anyone who's ever had a dream
 Anyone who's ever played a part
 Anyone who's ever been lonely
 And anyone who's ever split apart
-Sweet Jane, Sweet Jane
-Oh Sweet, Sweet Jane
+
+{chorus}
+
 Heavenly widened roses
 Seem to whisper to me when you smile
 Heavenly widened roses
