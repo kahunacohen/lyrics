@@ -1,22 +1,30 @@
+{title: Love Me Do}
+{artist: Beatles}
+{genre: rock}
+
 Love, love me do
 You know I love you
 I'll always be true
 So please, love me do
 Whoa-oh, love me do
+
 Love, love me do
 You know I love you
 I'll always be true
 So please, love me do
 Whoa-oh, love me do
+
 Someone to love
 Somebody new
 Someone to love
 Someone like you
+
 Love, love me do
 You know I love you
 I'll always be true
 So please, love me do
 Whoa-oh, love me do
+
 Love, love me do
 You know I love you
 I'll always be true
