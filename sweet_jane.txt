@@ -1,6 +1,7 @@
 {title: Sweet Jane}
 {artist: Lou Reed}
 {genre: rock}
+{capo: 6}
 
 Anyone who's ever had a heart
 Wouldn't turn around and break it
