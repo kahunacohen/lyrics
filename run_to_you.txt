@@ -1,6 +1,7 @@
 {title: Run to You}
 {artist: Bryan Adams}
 {genre: rock}
+{capo: 4}
 
 She says her love for me could never die
 But that'd change if she ever found out about you and I
