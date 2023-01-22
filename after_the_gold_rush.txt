@@ -1,3 +1,7 @@
+{title: After the Goldrush}
+{artist: Neil Young}
+{genre: folk rock}
+
 Well, I dreamed I saw the knights in armor coming
 Sayin' something about a queen
 There were peasants singin' and drummers drumming
