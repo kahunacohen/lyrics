@@ -1,0 +1,51 @@
+{title: I Want to Hold Your Hand}
+{artist: Beatles}
+{genre: rock}
+
+Oh, yeah, I'll tell you somethin'
+I think you'll understand
+When I say that somethin'
+
+{start_of_chorus}
+I want to hold your hand
+I want to hold your hand
+I want to hold your hand
+{end_of_chorus}
+
+Oh, please, say to me
+You'll let me be your man
+And please, say to me
+
+{start_of_chorus}
+You'll let me hold your hand
+You'll let me hold your hand
+I want to hold your hand
+{end_of_chorus}
+
+{start_of_bridge}
+And when I touch you
+I feel happy inside
+It's such a feelin' that my love
+I can't hide
+I can't hide
+I can't hide
+{end_of_bridge}
+
+Yeah, you got that somethin'
+I think you'll understand
+When I say that somethin'
+
+{chorus}
+
+{bridge}
+
+Yeah, you got that somethin'
+I think you'll understand
+When I feel that somethin'
+
+{start_of_chorus}
+I want to hold your hand
+I want to hold your hand
+I want to hold your hand
+I want to hold your hand
+{end_of_chorus}
