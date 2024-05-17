@@ -2,13 +2,19 @@
 {artist: Beatles}
 {genre: rock}
 
+{comment:Fun to put in a little blues type hammer on chors. E.g. tap on E for G bar chord}
 Oh, yeah, [G]I'll tell you [D]somethin'
 I [EM]think you'll under[B]stand
 When [G]I say that [D]somethin'
 I [EM]want to hold your [B]hand
 
+{comment:The D is a typical John Lennon D, with an F# (normal D with fourth string, fourth fret)
+{comment:The G is barred in the chorus.)
+
+{start_of_chorus}
 [C]I want to [D]hold your [G]hand
 [C]I want to [D]hold your [G]hand
+{end_of_chorus}
 
 Oh, please, say to me
 You'll let me be your man
