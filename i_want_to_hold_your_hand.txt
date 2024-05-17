@@ -2,7 +2,7 @@
 {artist: Beatles}
 {genre: rock}
 
-{intro: C to D, C to D, C to D}
+{intro: C to D, C to D, C to D (E and A string pressed on 10th fret slide up to 12th fret}
 {comment:Fun to put in a little blues type hammer on chors. E.g. tap on E for G bar chord}
 {comment:I also do an E string walk up from G to G# to A.}
 
@@ -43,7 +43,15 @@ When I say that somethin'
 I want to hold your hand
 I want to hold your hand
 
-{bridge}
+{comment:bridge}
+[DM]And when I [G]touch you
+I feel [C]happy in[AM]side
+{comment:The DM here is a DM with an F# added (3rd fret 4th string), then we slide that shape up to what makes an EM)}
+[DM]It's such a [EM]feelin' that my [C]love
+I can't [D]hide
+[C]I can't [D]hide
+[C]I can't [D]hide
+{end_of_bridge}
 
 Yeah, you got that somethin'
 I think you'll understand
