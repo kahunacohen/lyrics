@@ -50,8 +50,6 @@ I think you'll understand
 When I feel that somethin'
 I want to hold your hand
 
-{start_of_chorus}
-I want to hold your hand
-I want to hold your hand
-I want to hold your hand
-{end_of_chorus}
+[C]I want to [D]hold your [G]hand
+[C]I want to [D]hold your [B7]hand
+[C]I want to [D]hold your [C]hand  [G]
