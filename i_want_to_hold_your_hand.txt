@@ -2,13 +2,13 @@
 {artist: Beatles}
 {genre: rock}
 
-Oh, yeah, I'll tell you somethin'
-I think you'll understand
-When I say that somethin'
-I want to hold your hand
+Oh, yeah, [G]I'll tell you [D]somethin'
+I [EM]think you'll under[B]stand
+When [G]I say that [D]somethin'
+I [EM]want to hold your [B]hand
 
-I want to hold your hand
-I want to hold your hand
+[C]I want to [D]hold your [G]hand
+[C]I want to [D]hold your [G]hand
 
 Oh, please, say to me
 You'll let me be your man
