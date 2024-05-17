@@ -30,10 +30,11 @@ I want to hold your hand
 {comment:bridge}
 [DM]And when I [G]touch you
 I feel [C]happy in[AM]side
+{comment:The DM here is a DM with an F# added (3rd fret 4th string), then we slide that shape up to what makes an EM)}
 [DM]It's such a [EM]feelin' that my [C]love
 I can't [D]hide
 [C]I can't [D]hide
-I can't hide
+[C]I can't [D]hide
 {end_of_bridge}
 
 Yeah, you got that somethin'
