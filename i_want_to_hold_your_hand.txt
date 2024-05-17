@@ -1,6 +1,7 @@
 {title: I Want to Hold Your Hand}
 {artist: Beatles}
 {genre: rock}
+{capo: 2}
 
 {intro: C to D, C to D, C to D (E and A string pressed on 10th fret slide up to 12th fret}
 {comment:Fun to put in a little blues type hammer on chors. E.g. tap on E for G bar chord}
